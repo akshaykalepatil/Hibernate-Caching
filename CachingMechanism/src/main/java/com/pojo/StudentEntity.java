@@ -31,7 +31,6 @@ public class StudentEntity {
 
 	public StudentEntity() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public StudentEntity(int id, String name, Address address) {
